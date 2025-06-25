@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "420716583804",
+    "project_id": "amitofochat",
+    "storage_bucket": "amitofochat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420716583804:android:2dbdabd6eea0d89904a2f9",
+        "android_client_info": {
+          "package_name": "com.example.amitofo_chatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420716583804-mjh52buq43tffchvhhbhikbjg2oqrmmj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.amitofo_chatting",
+            "certificate_hash": "4f8df492979f5b4091d446f997ab59781e52f58a"
+          }
+        },
+        {
+          "client_id": "420716583804-n4u48ijs8mlr9d7kpatoh9e8a63ujeb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6346pafs0t-Yssntbi-uJsw6jo03_rcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420716583804-n4u48ijs8mlr9d7kpatoh9e8a63ujeb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420716583804:android:4e5d7bc0e93e808b04a2f9",
+        "android_client_info": {
+          "package_name": "com.example.skripsi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420716583804-n4u48ijs8mlr9d7kpatoh9e8a63ujeb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6346pafs0t-Yssntbi-uJsw6jo03_rcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420716583804-n4u48ijs8mlr9d7kpatoh9e8a63ujeb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

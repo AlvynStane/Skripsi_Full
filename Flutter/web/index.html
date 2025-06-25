@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <!-- <base href="/"> -->
+  <script>
+    const isLocalhost = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1";
+    document.write(`<base href="${isLocalhost ? '/' : './'}">`);
+  </script>
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="A new Flutter project.">
+  <meta http-equiv="Access-Control-Allow-Origin" content="*">
+
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="skripsi">
+  <meta name="mobile-web-app-capable" content="yes">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+  <link rel="icon" type="image/png" href="favicon.png" />
+
+  <title>Skripsi</title>
+  <link rel="manifest" href="manifest.json">
+</head>
+
+<body>
+  <script type="module">
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/10.0.0/firebase-app.js";
+    import { getAuth } from "https://www.gstatic.com/firebasejs/10.0.0/firebase-auth.js";
+    import { getFirestore } from "https://www.gstatic.com/firebasejs/10.0.0/firebase-firestore.js";
+    import { getStorage } from "https://www.gstatic.com/firebasejs/10.0.0/firebase-storage.js";
+
+    const firebaseConfig = {
+      apiKey: "AIzaSyC49Z8bJ9rZi8E1wRq38fQo-_fq71ivBAE",
+      authDomain: "amitofochat.firebaseapp.com",
+      projectId: "amitofochat",
+      storageBucket: "amitofochat.appspot.com",
+      messagingSenderId: "420716583804",
+      appId: "1:420716583804:web:4cedd74dce44df8404a2f9",
+      measurementId: "G-8QGWCRNJWY"
+    };
+
+    const app = initializeApp(firebaseConfig);
+    const auth = getAuth(app);
+    const db = getFirestore(app);
+    const storage = getStorage(app);
+  </script>
+  <script src="main.dart.js" type="application/javascript"></script>
+  <script src="flutter_bootstrap.js" async></script>
+</body>
+
+</html>

@@ -1,0 +1,2 @@
+D:/TUGAS AKHIR/SKRIPSI/android/app/.cxx/Debug/6d6g235b/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/TUGAS AKHIR/SKRIPSI/android/app/.cxx/Debug/6d6g235b/armeabi-v7a/CMakeFiles/rebuild_cache.dir

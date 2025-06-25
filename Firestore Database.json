@@ -1,0 +1,1261 @@
+{
+  "admin": [
+    {
+      "id": "SSKYW5BxegSrCtrYoOEBjG0Sr853",
+      "position": "Administrator",
+      "email": "admin@gmail.com",
+      "profileImage": "",
+      "name": "Admin",
+      "subcollections": {}
+    },
+    {
+      "id": "holiday",
+      "holidays": [
+        "2025-01-01T00:00:00.000",
+        "2025-04-18T00:00:00.000",
+        "2025-04-20T00:00:00.000",
+        "2025-05-01T00:00:00.000",
+        "2025-05-29T00:00:00.000",
+        "2025-06-01T00:00:00.000",
+        "2025-08-17T00:00:00.000",
+        "2025-12-25T00:00:00.000"
+      ],
+      "holidayImported": {
+        "2025": true
+      },
+      "subcollections": {}
+    },
+    {
+      "id": "shift",
+      "shiftTimes": {
+        "No Daily Wage Tolerance": "9:30",
+        "Shift 1 Start": "9:00",
+        "Late Tolerance": "9:03",
+        "Shift 1 End": "17:00",
+        "Shift 2 End": "12:00",
+        "Shift 2 Start": "9:00"
+      },
+      "shiftDays": {
+        "Shift 2": [
+          "Saturday"
+        ],
+        "Shift 1": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      },
+      "leaveQuota": 12,
+      "subcollections": {}
+    }
+  ],
+  "geofence": [
+    {
+      "id": "location",
+      "latitude": 3.6258876869850782,
+      "longitude": 98.67871465918586,
+      "radius": 10000,
+      "zoom": 13.636362828499047,
+      "subcollections": {}
+    }
+  ],
+  "users": [
+    {
+      "id": "IskqeYh7HdYP6RLXb11RVK632TF2",
+      "createdAt": {
+        "_seconds": 1747935102,
+        "_nanoseconds": 361000000
+      },
+      "faceEmbeddings": [
+        -0.006014813203364611,
+        0.020673176273703575,
+        0.00443208497017622,
+        -0.010686655528843403,
+        -0.03373660147190094,
+        -0.2048141211271286,
+        0.014516894705593586,
+        -0.047815900295972824,
+        -0.05919620394706726,
+        -0.20983129739761353,
+        0.013609043322503567,
+        0.0007665809825994074,
+        0.005532604176551104,
+        0.014680717140436172,
+        -0.002140746219083667,
+        -0.13518261909484863,
+        -0.01389111764729023,
+        -0.005427971016615629,
+        0.0040971869602799416,
+        0.004658052232116461,
+        0.030456462875008583,
+        -0.05423302948474884,
+        -0.10690094530582428,
+        0.007612132932990789,
+        0.16601766645908356,
+        0.0023628200870007277,
+        -0.02425401657819748,
+        -0.04968693107366562,
+        -0.07570299506187439,
+        0.11439426988363266,
+        0.016794394701719284,
+        0.10462479293346405,
+        0.15373632311820984,
+        -0.007641283329576254,
+        -0.18046510219573975,
+        0.08192060887813568,
+        0.06264786422252655,
+        0.012971395626664162,
+        0.001600229530595243,
+        -0.2771539092063904,
+        0.006586170289665461,
+        0.0008195696864277124,
+        -0.007331684231758118,
+        0.014237972907721996,
+        0.0034042971674352884,
+        0.020322496071457863,
+        -0.1168048158288002,
+        0.18397539854049683,
+        -0.007400352042168379,
+        0.024132119491696358,
+        0.09228428453207016,
+        -0.0020741235930472612,
+        -0.21134063601493835,
+        -0.006200073752552271,
+        0.0973246619105339,
+        0.009925919584929943,
+        0.02918398566544056,
+        0.0025447250809520483,
+        -0.023356879130005836,
+        0.010116830468177795,
+        -0.04864491522312164,
+        -0.015491874888539314,
+        -0.06693527847528458,
+        0.14562511444091797,
+        -0.010995496064424515,
+        0.1532353162765503,
+        0.0011325911618769169,
+        0.01694624125957489,
+        0.002067582681775093,
+        0.0012478134594857693,
+        -0.014374828897416592,
+        -0.03516470640897751,
+        -0.09631243348121643,
+        0.01179327443242073,
+        -0.04416152834892273,
+        0.0013190959580242634,
+        -0.009000802412629128,
+        0.0004605530120898038,
+        0.2260076254606247,
+        -0.08561167865991592,
+        0.0025763637386262417,
+        0.1218460351228714,
+        -0.004871950950473547,
+        0.03972596675157547,
+        0.24007780849933624,
+        -0.000499811430927366,
+        -0.0034853399265557528,
+        -0.027999376878142357,
+        -0.038001492619514465,
+        0.02495337277650833,
+        0.08449915796518326,
+        -0.010057646781206131,
+        0.0039528352208435535,
+        -0.016509292647242546,
+        -0.013154715299606323,
+        0.0054207295179367065,
+        0.0877750888466835,
+        0.0841125026345253,
+        -0.005024030338972807,
+        0.020599260926246643,
+        -0.0002879951207432896,
+        -0.0007490635034628212,
+        0.003205329179763794,
+        -0.001249524881131947,
+        0.015254367142915726,
+        0.005957819055765867,
+        0.09293071925640106,
+        0.0015051444061100483,
+        -0.0015905589098110795,
+        0.0186233501881361,
+        -0.06204057112336159,
+        0.01987473852932453,
+        0.007929649204015732,
+        -0.15806478261947632,
+        0.00008908596646506339,
+        -0.07684651762247086,
+        -0.0019110235152766109,
+        -0.005552757065743208,
+        0.1253650188446045,
+        0.0818110853433609,
+        0.1492755115032196,
+        -0.029103167355060577,
+        -0.003236692165955901,
+        0.0021631778217852116,
+        -0.0001354993146378547,
+        0.011535895988345146,
+        0.0014385648537427187,
+        -0.005290605127811432,
+        0.009337170980870724,
+        0.017998438328504562,
+        0.004366250243037939,
+        0.01646064780652523,
+        -0.0014491472393274307,
+        0.0040940577164292336,
+        -0.1040266752243042,
+        -0.0041963993571698666,
+        -0.046623729169368744,
+        -0.10292138159275055,
+        0.004639023914933205,
+        0.0015427001053467393,
+        0.009357714094221592,
+        -0.007631429471075535,
+        -0.006962689105421305,
+        -0.1783301830291748,
+        -0.02009630762040615,
+        0.10968438535928726,
+        -0.01589827984571457,
+        0.006007105577737093,
+        0.008553971536457539,
+        0.0022049066610634327,
+        -0.011943456716835499,
+        -0.1529090702533722,
+        0.06500416249036789,
+        -0.01674257405102253,
+        0.0012156472075730562,
+        0.007913593202829361,
+        -0.0008265550131909549,
+        0.011546330526471138,
+        -0.10757143795490265,
+        -0.0005211493116803467,
+        -0.02012263797223568,
+        -0.0044882227666676044,
+        0.0040190564468503,
+        -0.0008010966121219099,
+        -0.00035661092260852456,
+        0.002940589329227805,
+        -0.008406822569668293,
+        0.227935791015625,
+        -0.005033365450799465,
+        -0.00241786683909595,
+        -0.07221943885087967,
+        -0.053878169506788254,
+        0.00034091839916072786,
+        -0.0941510796546936,
+        -0.0016054230509325862,
+        0.0007200144464150071,
+        0.00950874388217926,
+        0.021556437015533447,
+        -0.003660657210275531,
+        0.001790634705685079,
+        -0.035929303616285324,
+        0.0033648137468844652,
+        0.00571826659142971,
+        -0.003545460756868124,
+        0.16901880502700806,
+        0.10201863944530487,
+        -0.03404899686574936,
+        0.02098158374428749,
+        0.13384677469730377,
+        0.04029455780982971,
+        -0.011435078456997871,
+        -0.005186146125197411
+      ],
+      "faceImage": "https://firebasestorage.googleapis.com/v0/b/amitofochat.appspot.com/o/users%2FIskqeYh7HdYP6RLXb11RVK632TF2%2Fface%2FIskqeYh7HdYP6RLXb11RVK632TF2.jpg?alt=media&token=ebeb5599-df8c-4209-9371-25104f8b6d06",
+      "subcollections": {
+        "profile": [
+          {
+            "id": "IskqeYh7HdYP6RLXb11RVK632TF2",
+            "pob": "Medan",
+            "address": "Medan",
+            "gender": "Male",
+            "nik": "0000000000000000",
+            "uid": "IskqeYh7HdYP6RLXb11RVK632TF2",
+            "joinDate": "2024-07-02",
+            "phone": "0888000088880808",
+            "dob": "2002-12-17",
+            "name": "Alvyn Stane",
+            "position": "Staff",
+            "email": "alvynstane541@gmail.com",
+            "no": "0002"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bqwXiOy41JcrTmxscojW3mgbmov1",
+      "createdAt": {
+        "_seconds": 1747936117,
+        "_nanoseconds": 37000000
+      },
+      "subcollections": {
+        "attendance": [
+          {
+            "id": "7r2nydKoqOoaORiWMFHd",
+            "activityType": "Clock Out",
+            "uploadedAt": {
+              "_seconds": 1750068000,
+              "_nanoseconds": 0
+            },
+            "userEmail": "hendrylie188@gmail.com",
+            "url": "",
+            "late": false,
+            "noDaily": false,
+            "autoGenerated": true,
+            "requestId": "NTluqVqC9bubSpOt7j35"
+          },
+          {
+            "id": "N3SMwyTOmHfqcTUl10P5",
+            "late": false,
+            "uploadedAt": {
+              "_seconds": 1749693002,
+              "_nanoseconds": 145258000
+            },
+            "userEmail": "hendrylie188@gmail.com",
+            "noDaily": false,
+            "activityType": "Clock In",
+            "url": "https://firebasestorage.googleapis.com/v0/b/amitofochat.appspot.com/o/users%2FbqwXiOy41JcrTmxscojW3mgbmov1%2Fattendance%2F1749692999475.jpg?alt=media&token=91a4b448-cd47-482b-8b2a-ecbd0413bdee"
+          },
+          {
+            "id": "c2BcXPLlzK2bYkrxm6x0",
+            "late": false,
+            "uploadedAt": {
+              "_seconds": 1749636324,
+              "_nanoseconds": 11033000
+            },
+            "userEmail": "hendrylie188@gmail.com",
+            "noDaily": false,
+            "activityType": "Clock Out",
+            "url": "https://firebasestorage.googleapis.com/v0/b/amitofochat.appspot.com/o/users%2FbqwXiOy41JcrTmxscojW3mgbmov1%2Fattendance%2F1749636322247.jpg?alt=media&token=1e93b446-9ac6-4491-8ad7-7ebdb0f5bde0"
+          },
+          {
+            "id": "gnlab8YnuGSPsBK1iM5e",
+            "activityType": "Clock In",
+            "uploadedAt": {
+              "_seconds": 1750039200,
+              "_nanoseconds": 0
+            },
+            "userEmail": "hendrylie188@gmail.com",
+            "url": "",
+            "late": false,
+            "noDaily": false,
+            "autoGenerated": true,
+            "requestId": "NTluqVqC9bubSpOt7j35"
+          },
+          {
+            "id": "nodzdSu8A0LnKeRWPNa2",
+            "activityType": "Clock In",
+            "uploadedAt": {
+              "_seconds": 1749520800,
+              "_nanoseconds": 0
+            },
+            "userEmail": "hendrylie188@gmail.com",
+            "url": "",
+            "late": false,
+            "noDaily": false,
+            "autoGenerated": true,
+            "requestId": "NksKneslnuZcCxoTQdcn"
+          },
+          {
+            "id": "rjb1ik3H5n6WanmpHij0",
+            "activityType": "Clock Out",
+            "uploadedAt": {
+              "_seconds": 1749549600,
+              "_nanoseconds": 0
+            },
+            "userEmail": "hendrylie188@gmail.com",
+            "url": "",
+            "late": false,
+            "noDaily": false,
+            "autoGenerated": true,
+            "requestId": "NksKneslnuZcCxoTQdcn"
+          },
+          {
+            "id": "sOlZFdnW837vtE2wc09B",
+            "late": false,
+            "uploadedAt": {
+              "_seconds": 1749606952,
+              "_nanoseconds": 383031000
+            },
+            "userEmail": "hendrylie188@gmail.com",
+            "noDaily": false,
+            "activityType": "Clock In",
+            "url": "https://firebasestorage.googleapis.com/v0/b/amitofochat.appspot.com/o/users%2FbqwXiOy41JcrTmxscojW3mgbmov1%2Fattendance%2F1749606950296.jpg?alt=media&token=f51d298d-3227-4f45-b2b3-7c5623f37096"
+          },
+          {
+            "id": "scxux6kHxiOciLDgA5xm",
+            "late": false,
+            "uploadedAt": {
+              "_seconds": 1749723399,
+              "_nanoseconds": 891494000
+            },
+            "userEmail": "hendrylie188@gmail.com",
+            "noDaily": false,
+            "activityType": "Clock Out",
+            "url": "https://firebasestorage.googleapis.com/v0/b/amitofochat.appspot.com/o/users%2FbqwXiOy41JcrTmxscojW3mgbmov1%2Fattendance%2F1749723398287.jpg?alt=media&token=24eb1011-2598-4ad8-9871-297e282bf2eb"
+          }
+        ],
+        "leave_requests": [
+          {
+            "id": "ItrjEMYreZwwFMZrIOp6",
+            "reason": "Liburan",
+            "leaveType": "Annual Leave",
+            "endDate": {
+              "_seconds": 1749402000,
+              "_nanoseconds": 0
+            },
+            "startDate": {
+              "_seconds": 1749402000,
+              "_nanoseconds": 0
+            },
+            "status": "Pending"
+          },
+          {
+            "id": "NTluqVqC9bubSpOt7j35",
+            "startDate": {
+              "_seconds": 1750006800,
+              "_nanoseconds": 0
+            },
+            "leaveType": "Attendance Request",
+            "endDate": {
+              "_seconds": 1750006800,
+              "_nanoseconds": 0
+            },
+            "reason": "WFH",
+            "attendanceGenerated": true,
+            "status": "Approved"
+          },
+          {
+            "id": "NksKneslnuZcCxoTQdcn",
+            "reason": "Work Form Home",
+            "leaveType": "Attendance Request",
+            "endDate": {
+              "_seconds": 1749488400,
+              "_nanoseconds": 0
+            },
+            "startDate": {
+              "_seconds": 1749488400,
+              "_nanoseconds": 0
+            },
+            "status": "Approved",
+            "attendanceGenerated": true
+          }
+        ],
+        "profile": [
+          {
+            "id": "bqwXiOy41JcrTmxscojW3mgbmov1",
+            "pob": "Medan",
+            "address": "Medan",
+            "gender": "Male",
+            "uid": "bqwXiOy41JcrTmxscojW3mgbmov1",
+            "name": "Hendry Linata",
+            "position": "Staff",
+            "no": "0003",
+            "email": "hendrylie188@gmail.com",
+            "nik": "8888888888888888",
+            "joinDate": "2024-07-08",
+            "phone": "081290908899",
+            "dob": "2003-03-03"
+          }
+        ]
+      }
+    },
+    {
+      "id": "gJyNcUJg6TRzXgtDZakKw0NAX7k2",
+      "createdAt": {
+        "_seconds": 1749576393,
+        "_nanoseconds": 940000000
+      },
+      "subcollections": {
+        "profile": [
+          {
+            "id": "gJyNcUJg6TRzXgtDZakKw0NAX7k2",
+            "nik": "7777777777777777",
+            "no": "0005",
+            "uid": "gJyNcUJg6TRzXgtDZakKw0NAX7k2",
+            "pob": "Medan",
+            "address": "-",
+            "joinDate": "2025-06-11",
+            "gender": "Male",
+            "phone": "08116501912",
+            "dob": "2001-12-19",
+            "name": "Michael Lay",
+            "position": "-",
+            "email": "michaellay1912@gmail.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nZkleCy6UygXTOoJ0BsKILwa4o13",
+      "createdAt": {
+        "_seconds": 1743703340,
+        "_nanoseconds": 776000000
+      },
+      "faceEmbeddings": [
+        -0.003166896291077137,
+        0.004090104717761278,
+        0.008247105404734612,
+        -0.014569170773029327,
+        -0.04082924872636795,
+        -0.06748755276203156,
+        0.006990508642047644,
+        -0.06243560463190079,
+        0.053165894001722336,
+        0.0056927381083369255,
+        0.0034345968160778284,
+        0.0029629352502524853,
+        -0.01042910385876894,
+        0.017790408805012703,
+        -0.004284360446035862,
+        0.03214260935783386,
+        -0.003699295921251178,
+        -0.0023112741764634848,
+        -0.0001881771459011361,
+        -0.002332930453121662,
+        -0.10052130371332169,
+        0.042072445154190063,
+        0.08266301453113556,
+        0.005170091055333614,
+        0.02993779256939888,
+        0.01882578432559967,
+        -0.025908086448907852,
+        0.15263257920742035,
+        -0.010582627728581429,
+        -0.18618303537368774,
+        0.012737407349050045,
+        0.19934695959091187,
+        -0.04759375378489494,
+        -0.007023689337074757,
+        -0.2980996370315552,
+        0.037804897874593735,
+        0.018927929922938347,
+        -0.019241459667682648,
+        0.004578159656375647,
+        -0.16357001662254333,
+        0.00641628447920084,
+        0.004818744957447052,
+        0.005862668622285128,
+        -0.00813026912510395,
+        0.004795786924660206,
+        -0.010842823423445225,
+        -0.1364559382200241,
+        0.1748684048652649,
+        -0.01007646881043911,
+        -0.039887744933366776,
+        -0.0629502609372139,
+        -0.0010054168524220586,
+        -0.167945995926857,
+        -0.00355122284963727,
+        0.10379711538553238,
+        0.013772492296993732,
+        0.0593605563044548,
+        0.0024831006303429604,
+        -0.07855717837810516,
+        0.01628188230097294,
+        0.027359571307897568,
+        -0.007868404500186443,
+        -0.001728484989143908,
+        -0.033920593559741974,
+        -0.02082105167210102,
+        -0.02961520105600357,
+        -0.004558260552585125,
+        0.013132981956005096,
+        0.004200277850031853,
+        0.0032847558613866568,
+        -0.019134260714054108,
+        0.019274139776825905,
+        0.030793027952313423,
+        0.012147912755608559,
+        -0.08153198659420013,
+        0.012676909565925598,
+        -0.01580929011106491,
+        0.0013369396328926086,
+        0.19307544827461243,
+        -0.019297227263450623,
+        0.0015687833074480295,
+        -0.03677414357662201,
+        -0.020532527938485146,
+        0.08953849971294403,
+        -0.023276524618268013,
+        0.0011170029174536467,
+        -0.0031246133148670197,
+        0.03780404478311539,
+        0.034103088080883026,
+        -0.1784452348947525,
+        0.21109545230865479,
+        0.004468853585422039,
+        0.00995391421020031,
+        -0.030619926750659943,
+        0.0742870643734932,
+        -0.11986709386110306,
+        0.1090429350733757,
+        0.015929654240608215,
+        0.0020171317737549543,
+        -0.0058202301152050495,
+        0.0031647486612200737,
+        -0.0073387958109378815,
+        -0.0067887636832892895,
+        -0.00043065770296379924,
+        -0.002675755647942424,
+        0.005638925824314356,
+        -0.0754479393362999,
+        0.006230576895177364,
+        -0.004568231757730246,
+        0.011764219030737877,
+        0.11475538462400436,
+        0.010543830692768097,
+        0.013837376609444618,
+        -0.03781445324420929,
+        -0.0021764584816992283,
+        -0.09558690339326859,
+        -0.002275473205372691,
+        -0.03296013921499252,
+        -0.04627178981900215,
+        0.16391856968402863,
+        -0.13577480614185333,
+        -0.024340476840734482,
+        0.038741011172533035,
+        0.0017129048937931657,
+        0.0010410568211227655,
+        0.00766958761960268,
+        0.004885099362581968,
+        -0.003916259855031967,
+        0.01846187934279442,
+        0.16297797858715057,
+        0.005781690590083599,
+        0.013171520084142685,
+        0.002160864882171154,
+        -0.09136057645082474,
+        0.03217581659555435,
+        -0.01461464911699295,
+        -0.13888508081436157,
+        -0.09612568467855453,
+        0.0007334267720580101,
+        0.01250476110726595,
+        0.0023364308290183544,
+        -0.003498197067528963,
+        0.00137686962261796,
+        -0.11638619005680084,
+        0.013485127128660679,
+        0.10628151148557663,
+        -0.029176274314522743,
+        -0.006755715236067772,
+        -0.00427120691165328,
+        -0.015209387056529522,
+        0.016862118616700172,
+        -0.21620719134807587,
+        0.12130505591630936,
+        -0.0179146658629179,
+        0.0026774732396006584,
+        0.010131288319826126,
+        -0.015433010645210743,
+        -0.0021852196659892797,
+        -0.024042708799242973,
+        0.004767186939716339,
+        -0.037862151861190796,
+        -0.0019695302471518517,
+        -0.0015889700734987855,
+        -0.002138047944754362,
+        0.0028554764576256275,
+        0.018094632774591446,
+        0.006678911857306957,
+        0.2974410057067871,
+        -0.004280062858015299,
+        -0.002703002654016018,
+        0.1419694423675537,
+        0.18350979685783386,
+        -0.0012695568148046732,
+        -0.137100949883461,
+        -0.043458424508571625,
+        0.003380723763257265,
+        -0.03034539520740509,
+        -0.08344081789255142,
+        -0.006732769776135683,
+        0.010879199020564556,
+        -0.0557977594435215,
+        -0.09439507126808167,
+        0.002801023656502366,
+        -0.0025162685196846724,
+        -0.04084857553243637,
+        0.0569879449903965,
+        -0.17370125651359558,
+        0.09619313478469849,
+        -0.034617189317941666,
+        -0.03921818360686302,
+        -0.046136386692523956,
+        -0.004725798033177853
+      ],
+      "faceImage": "https://firebasestorage.googleapis.com/v0/b/amitofochat.appspot.com/o/users%2FnZkleCy6UygXTOoJ0BsKILwa4o13%2Fface%2FnZkleCy6UygXTOoJ0BsKILwa4o13.jpg?alt=media&token=d3cbb2fd-1758-4455-a1f5-07f76f4a42f0",
+      "subcollections": {
+        "attendance": [
+          {
+            "id": "BsNF2Rw8W5t3NHwKwYn9",
+            "activityType": "Clock In",
+            "late": false,
+            "noDaily": false,
+            "userEmail": "als.stane@gmail.com",
+            "url": "https://firebasestorage.googleapis.com/v0/b/amitofochat.appspot.com/o/users%2FnZkleCy6UygXTOoJ0BsKILwa4o13%2Fattendance%2F1750007602653.jpg?alt=media&token=50364f25-4bfe-4d16-b834-22d6d92363e9",
+            "uploadedAt": {
+              "_seconds": 1750007603,
+              "_nanoseconds": 820179000
+            }
+          },
+          {
+            "id": "EMkdesJ4RAN8zFfLgrGo",
+            "url": "https://firebasestorage.googleapis.com/v0/b/amitofochat.appspot.com/o/users%2FnZkleCy6UygXTOoJ0BsKILwa4o13%2Fattendance%2F1749840384379.jpg?alt=media&token=8194854d-5f0a-4b17-b138-89f22bea2c5d",
+            "activityType": "Clock In",
+            "userEmail": "als.stane@gmail.com",
+            "uploadedAt": {
+              "_seconds": 1749840385,
+              "_nanoseconds": 507879000
+            },
+            "late": false,
+            "noDaily": false
+          },
+          {
+            "id": "MYoS4ZfqdUyf2W9n9EB3",
+            "late": false,
+            "uploadedAt": {
+              "_seconds": 1750789941,
+              "_nanoseconds": 340000000
+            },
+            "userEmail": "als.stane@gmail.com",
+            "noDaily": false,
+            "activityType": "Clock In",
+            "url": "https://firebasestorage.googleapis.com/v0/b/amitofochat.appspot.com/o/users%2FnZkleCy6UygXTOoJ0BsKILwa4o13%2Fattendance%2F1750789940265.jpg?alt=media&token=93eba3ad-b266-4455-bb3b-960b95427ea0"
+          },
+          {
+            "id": "QNDTdCdtEp5B9JCzeNl8",
+            "url": "https://firebasestorage.googleapis.com/v0/b/amitofochat.appspot.com/o/users%2FnZkleCy6UygXTOoJ0BsKILwa4o13%2Fattendance%2F1749920388741.jpg?alt=media&token=b49d42e3-5227-440e-8527-8f930dde231b",
+            "activityType": "Clock Out",
+            "uploadedAt": {
+              "_seconds": 1749920389,
+              "_nanoseconds": 805022000
+            },
+            "late": false,
+            "userEmail": "als.stane@gmail.com",
+            "noDaily": false
+          },
+          {
+            "id": "VD3tBMrZbA4EfUwhg66M",
+            "late": false,
+            "uploadedAt": {
+              "_seconds": 1750789971,
+              "_nanoseconds": 198000000
+            },
+            "userEmail": "als.stane@gmail.com",
+            "noDaily": false,
+            "activityType": "Clock Out",
+            "url": "https://firebasestorage.googleapis.com/v0/b/amitofochat.appspot.com/o/users%2FnZkleCy6UygXTOoJ0BsKILwa4o13%2Fattendance%2F1750789969834.jpg?alt=media&token=2f95d36a-0043-4826-ad4e-d1c76da7748c"
+          },
+          {
+            "id": "kf218vVOUvNo0tDJSKPn",
+            "uploadedAt": {
+              "_seconds": 1748194924,
+              "_nanoseconds": 357290000
+            },
+            "userEmail": "als.stane@gmail.com",
+            "activityType": "Clock In",
+            "url": "https://firebasestorage.googleapis.com/v0/b/amitofochat.appspot.com/o/users%2FnZkleCy6UygXTOoJ0BsKILwa4o13%2Fattendance%2F1748194922811.jpg?alt=media&token=93027db9-da92-4433-a124-0b0809ebe6fd",
+            "late": false
+          }
+        ],
+        "leave_requests": [
+          {
+            "id": "6cNpMtbdBQoHNRDTBRLe",
+            "reason": "Sick",
+            "leaveType": "Sick Leave",
+            "endDate": {
+              "_seconds": 1750525200,
+              "_nanoseconds": 0
+            },
+            "startDate": {
+              "_seconds": 1750352400,
+              "_nanoseconds": 0
+            },
+            "status": "Approved"
+          },
+          {
+            "id": "CtOceW3Zny2bC5QvqVbc",
+            "reason": "sick",
+            "leaveType": "Sick Leave",
+            "endDate": {
+              "_seconds": 1748624400,
+              "_nanoseconds": 0
+            },
+            "startDate": {
+              "_seconds": 1748106000,
+              "_nanoseconds": 0
+            },
+            "status": "Approved"
+          },
+          {
+            "id": "eztBpTN1y2YJkDI2JIPv",
+            "reason": "Travel",
+            "leaveType": "Annual Leave",
+            "endDate": {
+              "_seconds": 1748192400,
+              "_nanoseconds": 0
+            },
+            "startDate": {
+              "_seconds": 1748106000,
+              "_nanoseconds": 0
+            },
+            "status": "Rejected"
+          },
+          {
+            "id": "qOI8IaXtSGWkNdAVvRdV",
+            "reason": "leaf",
+            "leaveType": "Annual Leave",
+            "endDate": {
+              "_seconds": 1748538000,
+              "_nanoseconds": 0
+            },
+            "startDate": {
+              "_seconds": 1748278800,
+              "_nanoseconds": 0
+            },
+            "status": "Rejected"
+          }
+        ],
+        "profile": [
+          {
+            "id": "nZkleCy6UygXTOoJ0BsKILwa4o13",
+            "uid": "nZkleCy6UygXTOoJ0BsKILwa4o13",
+            "name": "User6",
+            "nik": "6666666666666666",
+            "dob": "1999-11-01",
+            "pob": "Medan",
+            "position": "Staff",
+            "address": "Jl. Wahidin No. 2, Medan",
+            "joinDate": "2025-04-04",
+            "phone": "081644523974",
+            "gender": "Female",
+            "email": "als.stane@gmail.com",
+            "no": "0004",
+            "profileImage": "https://firebasestorage.googleapis.com/v0/b/amitofochat.appspot.com/o/users%2FnZkleCy6UygXTOoJ0BsKILwa4o13%2Fprofile%2FnZkleCy6UygXTOoJ0BsKILwa4o13.jpg?alt=media&token=c7fad112-ff73-4eee-bdde-ecc34055ac49"
+          }
+        ]
+      }
+    },
+    {
+      "id": "se2kSpklVphL07mQNEQN0ntXn7l2",
+      "createdAt": {
+        "_seconds": 1741465940,
+        "_nanoseconds": 30000000
+      },
+      "faceEmbeddings": [
+        -0.021490585058927536,
+        0.020308755338191986,
+        0.002781773917376995,
+        -0.0008180063450708985,
+        -0.034418217837810516,
+        -0.13303768634796143,
+        0.05729888379573822,
+        0.04160317778587341,
+        -0.11797771602869034,
+        -0.1686154454946518,
+        0.021925026550889015,
+        0.004395094234496355,
+        0.0019311502110213041,
+        0.01116443146020174,
+        -0.004132557660341263,
+        -0.11433235555887222,
+        -0.004066511522978544,
+        0.00176652567461133,
+        0.006401299498975277,
+        0.0008124682353809476,
+        -0.0867367833852768,
+        -0.013294660486280918,
+        -0.21523091197013855,
+        0.005200165789574385,
+        0.07754378020763397,
+        0.011247875168919563,
+        -0.024246077984571457,
+        -0.02475603297352791,
+        -0.0055334726348519325,
+        0.10814956575632095,
+        0.018358225002884865,
+        0.06254557520151138,
+        0.15336556732654572,
+        -0.010380222462117672,
+        -0.21174311637878418,
+        -0.03813764080405235,
+        0.06560827791690826,
+        0.010407940484583378,
+        0.0029817502945661545,
+        -0.2708142399787903,
+        0.005557280033826828,
+        -0.00032221176661551,
+        -0.006121086422353983,
+        0.01765327714383602,
+        -0.002176436595618725,
+        0.002051109680905938,
+        -0.10953392833471298,
+        0.2698344886302948,
+        -0.008311811834573746,
+        -0.0016951311845332384,
+        0.1846630871295929,
+        0.0005172458477318287,
+        -0.19012519717216492,
+        -0.007067671045660973,
+        0.06288686394691467,
+        0.01106090284883976,
+        -0.010412023402750492,
+        0.002493281615898013,
+        -0.029664689674973488,
+        0.010586886666715145,
+        -0.029516054317355156,
+        -0.060507699847221375,
+        -0.011125762015581131,
+        0.12573383748531342,
+        -0.01124751940369606,
+        0.1316789835691452,
+        0.000496033055242151,
+        0.003150821663439274,
+        0.000499532965477556,
+        -0.0034745933953672647,
+        -0.015317718498408794,
+        -0.173490971326828,
+        -0.02407298982143402,
+        0.004768802784383297,
+        -0.14633508026599884,
+        0.003819061676040292,
+        -0.013137715868651867,
+        0.0015295007033273578,
+        0.20801521837711334,
+        -0.04247995838522911,
+        0.009247125126421452,
+        0.07430407404899597,
+        -0.010210514068603516,
+        0.09583152830600739,
+        0.18710803985595703,
+        0.0010576790664345026,
+        0.0018178155878558755,
+        0.08545640856027603,
+        0.027313511818647385,
+        -0.057512298226356506,
+        -0.03822691738605499,
+        -0.0062597887590527534,
+        -0.004410561639815569,
+        -0.004708167631179094,
+        0.04121466353535652,
+        0.059547308832407,
+        0.03675539419054985,
+        0.027311163023114204,
+        -0.0022009871900081635,
+        0.0037650098092854023,
+        0.002372218295931816,
+        0.00732329860329628,
+        0.0009497168357484043,
+        -0.0006350447656586766,
+        0.012717907316982746,
+        0.004548750817775726,
+        0.022353727370500565,
+        0.003439678344875574,
+        -0.0006046235794201493,
+        0.016360381618142128,
+        -0.045493654906749725,
+        0.01814134418964386,
+        0.00927862897515297,
+        -0.1401246041059494,
+        0.0009136750595644116,
+        -0.13238056004047394,
+        0.004163028206676245,
+        -0.02073431946337223,
+        0.19296984374523163,
+        0.026527004316449165,
+        -0.03584647178649902,
+        -0.015345234423875809,
+        0.07626279443502426,
+        0.005902444012463093,
+        -0.000048546757170697674,
+        0.009362381882965565,
+        0.0026846665423363447,
+        -0.005253184586763382,
+        0.021036654710769653,
+        -0.036089565604925156,
+        0.005149940028786659,
+        0.013950464315712452,
+        0.0017130764899775386,
+        0.08095831423997879,
+        -0.04170665889978409,
+        -0.002906731329858303,
+        -0.0965016633272171,
+        -0.053960688412189484,
+        -0.007261313963681459,
+        0.0017412240849807858,
+        0.010667206719517708,
+        -0.006764076184481382,
+        -0.00496996333822608,
+        -0.13900963962078094,
+        0.08378712087869644,
+        0.1880766898393631,
+        -0.011335122399032116,
+        -0.0014241976896300912,
+        0.0025121241342276335,
+        -0.007561961654573679,
+        -0.00380252068862319,
+        -0.12534338235855103,
+        0.11755672842264175,
+        -0.017644790932536125,
+        0.0036192601546645164,
+        0.0115747582167387,
+        -0.0016914180014282465,
+        0.004132963251322508,
+        0.033320218324661255,
+        -0.0001636000379221514,
+        -0.017018064856529236,
+        -0.002753565553575754,
+        0.0064066508784890175,
+        -0.0014434873592108488,
+        0.004065344575792551,
+        0.00594162754714489,
+        -0.00543834175914526,
+        0.26098597049713135,
+        -0.0072220684960484505,
+        -0.002027419162914157,
+        -0.10260908305644989,
+        -0.004617899190634489,
+        0.00019714199879672378,
+        -0.06192511320114136,
+        0.017750341445207596,
+        -0.0026658102869987488,
+        -0.06681109219789505,
+        0.003822870319709182,
+        -0.006412943359464407,
+        0.0005715452716685832,
+        -0.08717801421880722,
+        -0.004750826861709356,
+        0.011345263570547104,
+        -0.003411821788176894,
+        0.08511104434728622,
+        0.08671838045120239,
+        0.01331658661365509,
+        0.06458664685487747,
+        0.09819931536912918,
+        -0.023641832172870636,
+        -0.01731804572045803,
+        -0.00556854996830225
+      ],
+      "faceImage": "https://firebasestorage.googleapis.com/v0/b/amitofochat.appspot.com/o/users%2Fse2kSpklVphL07mQNEQN0ntXn7l2%2Fface%2Fse2kSpklVphL07mQNEQN0ntXn7l2.jpg?alt=media&token=b768b362-28ab-4281-ba28-e5764d8bf8ca",
+      "subcollections": {
+        "attendance": [
+          {
+            "id": "4xPqkUavrwl0mTYYSFVF",
+            "activityType": "Clock Out",
+            "uploadedAt": {
+              "_seconds": 1748253600,
+              "_nanoseconds": 0
+            },
+            "userEmail": "user1@gmail.com",
+            "url": "",
+            "late": false,
+            "noDaily": false,
+            "autoGenerated": true,
+            "requestId": "YirzAnB33XgHSMAtnCmF"
+          },
+          {
+            "id": "CQdcc3PXXl93BegTHCoJ",
+            "late": true,
+            "uploadedAt": {
+              "_seconds": 1750387589,
+              "_nanoseconds": 25565000
+            },
+            "userEmail": "user1@gmail.com",
+            "noDaily": true,
+            "activityType": "Clock In",
+            "url": "https://firebasestorage.googleapis.com/v0/b/amitofochat.appspot.com/o/users%2Fse2kSpklVphL07mQNEQN0ntXn7l2%2Fattendance%2F1750387587659.jpg?alt=media&token=b8911140-7f3d-465b-b187-45b83b33ca0c"
+          },
+          {
+            "id": "JUIrAEbjjWZxsGEoGz3j",
+            "late": false,
+            "uploadedAt": {
+              "_seconds": 1750522350,
+              "_nanoseconds": 685808000
+            },
+            "userEmail": "user1@gmail.com",
+            "noDaily": false,
+            "activityType": "Clock Out",
+            "url": "https://firebasestorage.googleapis.com/v0/b/amitofochat.appspot.com/o/users%2Fse2kSpklVphL07mQNEQN0ntXn7l2%2Fattendance%2F1750522349147.jpg?alt=media&token=9cb60f88-d215-4dd8-8604-a09287b01603"
+          },
+          {
+            "id": "JzvnLzeKlSzz1hT4WkgN",
+            "late": false,
+            "uploadedAt": {
+              "_seconds": 1749403052,
+              "_nanoseconds": 818347000
+            },
+            "userEmail": "user1@gmail.com",
+            "noDaily": false,
+            "activityType": "Clock Out",
+            "url": "https://firebasestorage.googleapis.com/v0/b/amitofochat.appspot.com/o/users%2Fse2kSpklVphL07mQNEQN0ntXn7l2%2Fattendance%2F1749403051600.jpg?alt=media&token=7256c80a-7e8c-4a47-9192-f1f2818b685b"
+          },
+          {
+            "id": "LV1zGJpGTswLT3740XbC",
+            "userEmail": "user1@gmail.com",
+            "activityType": "Clock In",
+            "url": "https://firebasestorage.googleapis.com/v0/b/amitofochat.appspot.com/o/users%2Fse2kSpklVphL07mQNEQN0ntXn7l2%2Fattendance%2F1748459842763.jpg?alt=media&token=8b96f060-dc8d-4cf5-99d9-dc0d182b06c0",
+            "noDaily": false,
+            "late": true,
+            "uploadedAt": {
+              "_seconds": 1748570640,
+              "_nanoseconds": 446000000
+            }
+          },
+          {
+            "id": "MKNHIFr2SkxbYMixgXwk",
+            "late": true,
+            "uploadedAt": {
+              "_seconds": 1750515099,
+              "_nanoseconds": 773072000
+            },
+            "userEmail": "user1@gmail.com",
+            "noDaily": true,
+            "activityType": "Clock In",
+            "url": "https://firebasestorage.googleapis.com/v0/b/amitofochat.appspot.com/o/users%2Fse2kSpklVphL07mQNEQN0ntXn7l2%2Fattendance%2F1750515098591.jpg?alt=media&token=be3f9169-4908-49c6-9a1c-8da647527bc7"
+          },
+          {
+            "id": "R1FUnEnZzN9dMa5UgNxD",
+            "late": true,
+            "uploadedAt": {
+              "_seconds": 1748513326,
+              "_nanoseconds": 656628000
+            },
+            "userEmail": "user1@gmail.com",
+            "noDaily": true,
+            "activityType": "Clock In",
+            "url": "https://firebasestorage.googleapis.com/v0/b/amitofochat.appspot.com/o/users%2Fse2kSpklVphL07mQNEQN0ntXn7l2%2Fattendance%2F1748513325340.jpg?alt=media&token=b35dddcb-5e37-4ad2-874b-bdcd8124699a"
+          },
+          {
+            "id": "SEYFYKkt2McJ5rvS2E13",
+            "late": false,
+            "userEmail": "user1@gmail.com",
+            "noDaily": false,
+            "activityType": "Clock Out",
+            "url": "https://firebasestorage.googleapis.com/v0/b/amitofochat.appspot.com/o/users%2Fse2kSpklVphL07mQNEQN0ntXn7l2%2Fattendance%2F1748462240585.jpg?alt=media&token=bdaf1e7e-9d91-49c5-972e-cdf55bba8e34",
+            "uploadedAt": {
+              "_seconds": 1748599199,
+              "_nanoseconds": 589000000
+            }
+          },
+          {
+            "id": "ekyXMxZy9UCyy5RO6CN2",
+            "late": false,
+            "userEmail": "user1@gmail.com",
+            "noDaily": false,
+            "activityType": "Clock Out",
+            "url": "https://firebasestorage.googleapis.com/v0/b/amitofochat.appspot.com/o/users%2Fse2kSpklVphL07mQNEQN0ntXn7l2%2Fattendance%2F1748520480779.jpg?alt=media&token=ffd27242-a9a1-450f-8d7f-bdbfcbd0d4ad",
+            "uploadedAt": {
+              "_seconds": 1748506082,
+              "_nanoseconds": 572000000
+            }
+          },
+          {
+            "id": "vGvxjlA0QiMAVphbyXXp",
+            "activityType": "Clock In",
+            "uploadedAt": {
+              "_seconds": 1748224800,
+              "_nanoseconds": 0
+            },
+            "userEmail": "user1@gmail.com",
+            "url": "",
+            "late": false,
+            "noDaily": false,
+            "autoGenerated": true,
+            "requestId": "YirzAnB33XgHSMAtnCmF"
+          },
+          {
+            "id": "xiI8wzE6FPxiKplpA6Kq",
+            "late": false,
+            "uploadedAt": {
+              "_seconds": 1749403039,
+              "_nanoseconds": 898753000
+            },
+            "userEmail": "user1@gmail.com",
+            "noDaily": false,
+            "activityType": "Clock In",
+            "url": "https://firebasestorage.googleapis.com/v0/b/amitofochat.appspot.com/o/users%2Fse2kSpklVphL07mQNEQN0ntXn7l2%2Fattendance%2F1749403038556.jpg?alt=media&token=f2481272-39aa-4ec0-b23c-daf623cb925f"
+          },
+          {
+            "id": "xs6BrfTKDfqBdWeLID1G",
+            "userEmail": "user1@gmail.com",
+            "uploadedAt": {
+              "_seconds": 1749835719,
+              "_nanoseconds": 157587000
+            },
+            "activityType": "Clock In",
+            "url": "https://firebasestorage.googleapis.com/v0/b/amitofochat.appspot.com/o/users%2Fse2kSpklVphL07mQNEQN0ntXn7l2%2Fattendance%2F1749835717637.jpg?alt=media&token=9cade841-379f-4736-8d87-e757d637956b",
+            "late": false,
+            "noDaily": false
+          }
+        ],
+        "leave_requests": [
+          {
+            "id": "15QsEMldFRdAQdoGI6h0",
+            "reason": "holiday",
+            "leaveType": "Annual Leave",
+            "endDate": {
+              "_seconds": 1748883600,
+              "_nanoseconds": 0
+            },
+            "startDate": {
+              "_seconds": 1748451600,
+              "_nanoseconds": 0
+            },
+            "status": "Pending"
+          },
+          {
+            "id": "6tlDwDKylsB9N8snZChI",
+            "reason": "cuti",
+            "leaveType": "Annual Leave",
+            "endDate": {
+              "_seconds": 1748365200,
+              "_nanoseconds": 0
+            },
+            "startDate": {
+              "_seconds": 1748192400,
+              "_nanoseconds": 0
+            },
+            "status": "Rejected"
+          },
+          {
+            "id": "YirzAnB33XgHSMAtnCmF",
+            "reason": "late",
+            "leaveType": "Attendance Request",
+            "endDate": {
+              "_seconds": 1748192400,
+              "_nanoseconds": 0
+            },
+            "startDate": {
+              "_seconds": 1748192400,
+              "_nanoseconds": 0
+            },
+            "status": "Approved",
+            "attendanceGenerated": true
+          }
+        ],
+        "profile": [
+          {
+            "id": "se2kSpklVphL07mQNEQN0ntXn7l2",
+            "uid": "se2kSpklVphL07mQNEQN0ntXn7l2",
+            "no": "0001",
+            "name": "User1",
+            "email": "user1@gmail.com",
+            "position": "Dept.",
+            "profileImage": "https://firebasestorage.googleapis.com/v0/b/amitofochat.appspot.com/o/users%2Fse2kSpklVphL07mQNEQN0ntXn7l2%2Fprofile%2Fse2kSpklVphL07mQNEQN0ntXn7l2.jpg?alt=media&token=ec86ff8f-dc1f-4762-ad68-9d7c00efe462",
+            "pob": "Jakarta",
+            "address": "Jakarta",
+            "gender": "Male",
+            "phone": "0823498561384",
+            "nik": "0000000000000012",
+            "joinDate": "2025-06-01",
+            "dob": "1970-01-01"
+          }
+        ]
+      }
+    }
+  ]
+}
